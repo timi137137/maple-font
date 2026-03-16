@@ -18,7 +18,7 @@
     "extrabold": 800
   },
   "line_height": 1,
-  "width": "default",
+  "width": "slim",
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "ignore",
@@ -60,13 +60,13 @@
     "ss03": "ignore",
     "ss04": "enable",
     "ss05": "enable",
-    "ss06": "ignore",
+    "ss06": "enable",
     "ss07": "ignore",
     "ss08": "ignore",
     "ss09": "ignore",
     "ss10": "ignore",
     "ss11": "ignore",
-    "zero": "enable"
+    "zero": "ignore"
   },
   "nerd_font": {
     "enable": true,
